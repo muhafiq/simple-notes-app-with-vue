@@ -48,7 +48,7 @@ export default {
             id: 1,
             type: "file",
             name: "welcome",
-            content: "welcome to my notes app.\nStill bug in save notes",
+            content: "welcome to my notes app.",
           },
         ];
       }

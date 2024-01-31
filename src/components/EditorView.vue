@@ -145,4 +145,13 @@ export default {
   font-size: 1.5rem;
   font-weight: bold;
 }
+
+@media screen and (max-width: 600px) {
+  .no-content-image {
+    width: 8rem;
+  }
+  .no-content-information {
+    font-size: 0.8rem;
+  }
+}
 </style>
