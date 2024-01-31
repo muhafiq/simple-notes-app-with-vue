@@ -147,6 +147,9 @@ export default {
 }
 
 @media screen and (max-width: 600px) {
+  .editor {
+    font-size: 0.9rem;
+  }
   .no-content-image {
     width: 8rem;
   }
